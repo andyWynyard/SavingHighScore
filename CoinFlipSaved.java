@@ -2,6 +2,13 @@ import java.io.File;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
+/*
+* Study Drill:
+* This was confusing to me.
+* I wasn't entirely sure what it wanted me to do.
+* I left it because of this.
+*/
+
 public class CoinFlipSaved {
 	public static void main(String[]args) throws Exception {
 		Scanner keyboard = new Scanner(System.in);
